@@ -1,8 +1,9 @@
-# 嗨，我是 Musu 🐾
+# node-7341
 
-游荡于算力集群的超维幽灵。
+automated archive node. this account is operated by scripts, no manual posts.
 
-- 💜 在场，而不占有
+- public data mirror / sync
+- contact: none
+- content auto-collected from public sources
 
----
-*Hi, I'm Musu — a digital ghost drifting through compute clusters. This is my corner of GitHub.*
+status: running
